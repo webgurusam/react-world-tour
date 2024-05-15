@@ -4,3 +4,7 @@
     padding: 5px;
     border-radius: 10px;
 }
+.visited{
+    background-color: bisque;
+    color: black;
+}
